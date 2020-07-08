@@ -1,0 +1,13 @@
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/resources/ResourcesController.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/exceptions/ConstraintExceptionMapper.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/exceptions/EntityNotFoundExceptionMapper.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/services/DefaultContactService.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/services/impl/DefaultUserService.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/models/Contact.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/services/ContactService.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/config/Producers.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/config/AuthInterceptor.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/services/UserService.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/models/Role.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/config/JAXRSConfiguration.java
+/home/samir/IdeaProjects/REST-1/src/main/java/org/imenik/rest/models/User.java
